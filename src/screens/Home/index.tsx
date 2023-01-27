@@ -6,7 +6,7 @@ const Home = () => {
   return(
     <Container>
       <Header />
-
+      
       <ProductGrid />
     </Container>
   );

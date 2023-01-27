@@ -1,6 +1,8 @@
+import { Container } from "./styles";
+
 const ProductGrid = () => {
   return(
-    <>ProductGrid</>
+    <Container>ProductGrid</Container>
   );
 }
 
