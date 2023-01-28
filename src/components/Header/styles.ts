@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   min-height: 10vh;
-  border: 1px solid #000;
   display: flex;
   justify-content: space-between;
   align-items: center;

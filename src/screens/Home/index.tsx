@@ -5,7 +5,9 @@ import { Container } from "./styles";
 const Home = () => {
   return(
     <Container>
-      <Header />
+      <Header 
+        quantityProducts={0}
+      />
       
       <ProductGrid />
     </Container>
